@@ -18,7 +18,7 @@ Fill the required fields, click the Signup button and you will get a API key (th
 
 You will use the API key to send requests to NASA servers to get data about asteroids - to view how it works, scroll down a little more until you see the NeoWs data.
 
-Take your API Key and paste it in the Constants.kt file.
+Take your API Key and paste it in **Constants.kt** file.
 
 ## **Components**
 
