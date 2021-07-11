@@ -38,7 +38,7 @@ Take your API Key and paste it in the Constants.kt file.
 
 ## **Screenshots**
 
-<img src="https://user-images.githubusercontent.com/7738156/125194384-b374fa80-e26e-11eb-8fb7-cade0b0b379a.jpg" width="310"> <img src="https://user-images.githubusercontent.com/7738156/125194464-12d30a80-e26f-11eb-8514-fa5b29723bfa.jpg" width="310"> <img src="https://user-images.githubusercontent.com/7738156/125194470-1797be80-e26f-11eb-9050-430cc53e53d0.jpg" width="310">
+<img src="https://user-images.githubusercontent.com/7738156/125194384-b374fa80-e26e-11eb-8fb7-cade0b0b379a.jpg" width="250"> <img src="https://user-images.githubusercontent.com/7738156/125194464-12d30a80-e26f-11eb-8514-fa5b29723bfa.jpg" width="250"> <img src="https://user-images.githubusercontent.com/7738156/125194470-1797be80-e26f-11eb-9050-430cc53e53d0.jpg" width="250">
 
-<img src="https://user-images.githubusercontent.com/7738156/125194475-19618200-e26f-11eb-8700-c57285e51c96.jpg" width="465"> &nbsp;<img src="https://user-images.githubusercontent.com/7738156/125194481-22eaea00-e26f-11eb-9689-a919230d209d.jpg" width="465">
+<img src="https://user-images.githubusercontent.com/7738156/125194475-19618200-e26f-11eb-8700-c57285e51c96.jpg" width="375"> &nbsp;<img src="https://user-images.githubusercontent.com/7738156/125194481-22eaea00-e26f-11eb-9689-a919230d209d.jpg" width="375">
 
