@@ -18,3 +18,5 @@ Take your API Key and paste it in the Constants.kt file.
 
 Below are the application Screenshots :
 
+![Screenshot_20210711-140452](https://user-images.githubusercontent.com/7738156/125194384-b374fa80-e26e-11eb-8fb7-cade0b0b379a.jpg)
+
