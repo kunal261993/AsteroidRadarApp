@@ -35,6 +35,7 @@ Take your API Key and paste it in the Constants.kt file.
 * **Moshi**
 * **Picasso**
 * **MVVM**
+* **Constraint Layout**
 
 ## **Screenshots**
 
